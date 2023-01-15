@@ -1,7 +1,6 @@
 <div id="root">
 </div>
 <script>   
-  
 function tick() {
   const element = (
     <div> 
